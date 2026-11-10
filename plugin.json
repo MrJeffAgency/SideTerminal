@@ -1,0 +1,10 @@
+{
+  "id": "mrjeffagency.sideterminal",
+  "name": "Side Terminal",
+  "main": "main.js",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "author": { "name": "MrJeffAgency" }
+}
