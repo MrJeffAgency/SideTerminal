@@ -6,5 +6,9 @@
   "icon": "icon.png",
   "files": [],
   "minVersionCode": 290,
-  "author": { "name": "MrJeffAgency" }
+  "author": {
+    "name": "MrJeffAgency"
+  },
+  "repository": "https://github.com/MrJeffAgency/SideTerminal",
+  "license": "Apache-2.0"
 }
