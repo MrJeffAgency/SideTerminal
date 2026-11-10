@@ -36,3 +36,6 @@ Android shell mode is not included; the terminal runs the Alpine shell only.
 
 ## License and owner
 Made and owned by MrJeffAgency.
+## Source code and license
+- Source repository: https://github.com/MrJeffAgency/SideTerminal
+- License: Apache License 2.0 (see [LICENSE](LICENSE)).
